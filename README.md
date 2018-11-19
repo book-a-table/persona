@@ -1,6 +1,6 @@
 ### Persona
 
-1. Marc Andrei </br>
+1. Marc Andrei<br/>
 
 Persoana la 32 ani, cu familie, copil 1 an jumatate, pasionat de ceea ce face, functia de team leader, dar cu aspiratii si devotament de a ajunge mai departe
 „Pune-te la treabă din toată inima şi vei reuşi. Competiţia este atât de mică...”
@@ -44,7 +44,7 @@ Motivatii:
 
 ---------------------------------------------------------
 
-2. Ana Nicola </br>
+2. Ana Nicola <br/>
 
 Student tocmai iesit de pe bancile facultatii, 23 ani, singur intr-un oras nou
 “Invata ca si cum ar fi ultima ta zi si traieste ca si cum ar fi ultima”
